@@ -102,7 +102,7 @@
 /vendor/lib/modules/rdbg.ko:
 /vendor/lib/modules/class-dual-role.ko:
 /vendor/lib/modules/goodix_ts_9896.ko: /vendor/lib/modules/xiaomi_touch_game.ko /vendor/lib/modules/lct_tp.ko /vendor/lib/modules/nopmi-chg.ko /vendor/lib/modules/qcom-pmic-voter.ko /vendor/lib/modules/panel_event_notifier.ko /vendor/lib/modules/xm_adapter_class.ko
-/vendor/lib/modules/icnss2.ko: /vendor/lib/modules/wlan_firmware_service.ko /vendor/lib/modules/qcom_ramdump.ko
+/vendor/lib/modules/icnss2.ko: /vendor/lib/modules/wlan_firmware_service.ko /vendor/lib/modules/cnss_prealloc.ko /vendor/lib/modules/qcom_ramdump.ko
 /vendor/lib/modules/heap_mem_ext_v01.ko:
 /vendor/lib/modules/ln8000_charger.ko:
 /vendor/lib/modules/ucsi_glink.ko: /vendor/lib/modules/pmic_glink.ko

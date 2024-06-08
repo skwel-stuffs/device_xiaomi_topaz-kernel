@@ -132,6 +132,7 @@
 /lib/modules/ipa_fmwk.ko:
 /lib/modules/i2c-msm-geni.ko: /lib/modules/qcom_ipc_logging.ko /lib/modules/minidump.ko /lib/modules/smem.ko
 /lib/modules/memory_dump_v2.ko: /lib/modules/minidump.ko /lib/modules/qcom-scm.ko /lib/modules/smem.ko
+/lib/modules/qrng_dlkm.ko:
 /lib/modules/sg.ko:
 /lib/modules/qcom_iommu_util.ko: /lib/modules/secure_buffer.ko /lib/modules/qcom-scm.ko
 /lib/modules/usb_f_cdev.ko:
